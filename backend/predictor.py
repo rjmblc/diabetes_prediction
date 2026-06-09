@@ -58,7 +58,7 @@ def predict(input_data: dict):
 #     "restecg": 1,
 #     "thalach": 168,
 #     "exang": 0,
-#     "oldpeak": 1.0,
+#     "oldpeak": 1.0,   
 #     "slope": 2,
 #     "ca": 0,
 #     "thal": 2
